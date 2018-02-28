@@ -1,0 +1,22 @@
+body, header, nav, ul, li, aside, h1, h2, section, ol, form, label, input, option, footer, p {
+  margin: 0px;
+  border: 0px;
+  padding: 0px;
+  background-color: transparent;
+}
+
+p {
+  font: inherit;
+}
+
+ul, ol, li {
+  list-style: none;
+}
+
+body {
+  line-height: 1.5;
+}
+
+img {
+  width: 100%;
+}
